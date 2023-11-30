@@ -1,5 +1,5 @@
 # rocketseat-rocketCoffe
-Projeto para ser desenvolvido no evento Maratona Explorer 3.0 da Rocketseat Data: 10/08/2023
+Projeto para ser desenvolvido no evento Maratona Explorer 3.0 da Rocketseat Data: 10/08/2022
 [update]
 
 ## Site
